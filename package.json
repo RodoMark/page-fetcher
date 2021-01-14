@@ -1,0 +1,29 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "Fetches pages",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "\"mmocha\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodoMark/page-fetcher.git"
+  },
+  "keywords": [
+    "page",
+    "fetcher"
+  ],
+  "author": "AlonCodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodoMark/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/RodoMark/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "net": "^1.0.2"
+  }
+}
